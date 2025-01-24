@@ -1,0 +1,17 @@
+asyncio
+aiofiles
+aiodns
+# cchardet
+aiohttp==3.10.10
+aiohttp_session
+aiohttp_auth_autz
+aiohttp-cors
+aiomysql
+aioredis
+psycopg2-binary
+aiopg
+jinja2
+ujson
+openpyxl
+pillow
+py-natpmp
